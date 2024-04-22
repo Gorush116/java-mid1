@@ -22,4 +22,5 @@ public class ToStringMain2 {
         ObjectPrinter.print(dog1);
         ObjectPrinter.print(dog2);
     }
+
 }
