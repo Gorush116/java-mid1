@@ -9,7 +9,6 @@ public class Service {
      */
     public void callCatch() {
 
-
         try {
             client.call();
         } catch (MyCheckedException e) {
